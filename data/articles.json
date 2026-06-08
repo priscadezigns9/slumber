@@ -1,0 +1,22 @@
+[
+  {"id": 1, "title": "The Stages of Sleep", "category": "Science", "content": "Sleep consists of four stages: N1, N2, N3 (deep sleep), and REM. Each stage plays a critical role in physical and mental restoration."},
+  {"id": 2, "title": "Circadian Rhythm 102", "category": "Biology", "content": "Your internal 24-hour clock regulates sleep-wake cycles, primarily influenced by light exposure and temperature."},
+  {"id": 3, "title": "Melatonin: The Darkness Hormone", "category": "Chemistry", "content": "Melatonin is produced by the pineal gland in response to darkness, signaling to your body that it's time to rest."},
+  {"id": 4, "title": "The Impact of Caffeine", "category": "Lifestyle", "content": "Caffeine blocks adenosine receptors in the brain, which normally build up 'sleep pressure' throughout the day."},
+  {"id": 5, "title": "Blue Light and Sleep", "category": "Technology", "content": "Exposure to blue light from screens suppresses melatonin production, making it harder to fall asleep at night."},
+  {"id": 6, "title": "The Role of Magnesium", "category": "Nutrition", "content": "Magnesium helps regulate neurotransmitters like GABA, which calms the nervous system and prepares you for sleep."},
+  {"id": 7, "title": "Sleep Hygiene Basics", "category": "Habits", "content": "Consistent schedules, a cool room, and a dark environment are the pillars of good sleep hygiene."},
+  {"id": 8, "title": "REM Sleep and Memory", "category": "Psychology", "content": "Rapid Eye Movement (REM) sleep is crucial for emotional processing and memory consolidation."},
+  {"id": 9, "title": "Understanding Sleep Apnea", "category": "Health", "content": "Sleep apnea involves repeated pauses in breathing during sleep, leading to fragmented rest and health risks."},
+  {"id": 10, "title": "The Power Nap", "category": "Efficiency", "content": "A 10-20 minute nap can boost alertness and mood without causing 'sleep inertia' from waking up during deep sleep."},
+  {"id": 11, "title": "Temperature and Sleep", "category": "Environment", "content": "The body needs to drop its core temperature by about 2-3 degrees Fahrenheit to initiate sleep effectively."},
+  {"id": 12, "title": "Alcohol and Sleep Architecture", "category": "Lifestyle", "content": "While alcohol may help you fall asleep faster, it severely fragments sleep and suppresses REM sleep later in the night."},
+  {"id": 13, "title": "The Adenosine Cycle", "category": "Science", "content": "Adenosine is a chemical that builds up in your brain the longer you are awake, creating a natural urge to sleep."},
+  {"id": 14, "title": "Stress and Cortisol", "category": "Psychology", "content": "High cortisol levels from stress keep the body in a state of high alert, directly opposing the relaxation needed for sleep."},
+  {"id": 15, "title": "Chronotypes Explained", "category": "Biology", "content": "Whether you are a 'morning lark' or 'night owl' is largely determined by genetics and your individual circadian rhythm."},
+  {"id": 16, "title": "Sleep and Immune Function", "category": "Health", "content": "During sleep, your immune system releases proteins called cytokines, which help the body fight off infections."},
+  {"id": 17, "title": "The Dangers of Sleep Deprivation", "category": "Safety", "content": "Lack of sleep impairs judgment, reaction time, and increases the risk of chronic diseases like diabetes and heart disease."},
+  {"id": 18, "title": "The Benefits of a Bedtime Routine", "category": "Habits", "content": "A consistent pre-sleep routine signals to the brain that it's time to wind down, reducing sleep onset latency."},
+  {"id": 19, "title": "Exercise and Sleep Quality", "category": "Lifestyle", "content": "Regular aerobic exercise increases the amount of deep sleep you get, though intense workouts late at night can be disruptive."},
+  {"id": 20, "title": "Lucid Dreaming", "category": "Psychology", "content": "Lucid dreaming occurs when you become aware that you are dreaming during REM sleep, allowing some level of control."}
+]
